@@ -1,0 +1,2 @@
+Fixed dark mode.
+Introducing the mode features on our website.
